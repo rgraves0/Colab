@@ -1,2 +1,2 @@
 # Jupeter Notebook for Colab
-##If you need take it. 😁🫠
+If you need take it. 😁🫠
